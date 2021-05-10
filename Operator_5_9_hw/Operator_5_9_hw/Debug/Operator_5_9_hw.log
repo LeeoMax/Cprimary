@@ -1,0 +1,3 @@
+﻿  Operator_5_9_hw.c
+G:\2021C_code\C_code\Operator_5_9_hw\Operator_5_9_hw\Operator_5_9_hw.c(77,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Operator_5_9_hw.vcxproj -> G:\2021C_code\C_code\Operator_5_9_hw\Debug\Operator_5_9_hw.exe
